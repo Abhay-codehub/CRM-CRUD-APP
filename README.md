@@ -89,6 +89,6 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 For any queries or issues, reach out to:
-- **Your Name**: [workwithabhay247@gmail.com]
+- **Abhay Prasad **: [workwithabhay247@gmail.com]
 - **GitHub**: [[https://github.com/your-username](https://github.com/Abhay-codehub)]
 
